@@ -1,0 +1,9 @@
+[submodule "expenses-ansible"]
+	path = expenses-ansible
+	url = https://github.com/vasanth-mvvr/expenses-ansible.git
+[submodule "expenses-documentation"]
+	path = expenses-documentation
+	url = https://github.com/vasanth-mvvr/expenses-documentation.git
+[submodule "expenses-shell"]
+	path = expenses-shell
+	url = https://github.com/vasanth-mvvr/expenses-shell.git
